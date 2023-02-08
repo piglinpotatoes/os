@@ -1,2 +1,4 @@
 # os
-Nevermind this won't get anywhere
+Use Makefile with WSL
+
+This repo is going to be reused
